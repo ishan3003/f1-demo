@@ -1,4 +1,24 @@
-"dependencies": {
-  "lodash": "4.17.11"
+{
+  "name": "f1-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan3003/f1-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ishan3003/f1-demo/issues"
+  },
+  "homepage": "https://github.com/ishan3003/f1-demo#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
-"minimist": "0.0.8"
